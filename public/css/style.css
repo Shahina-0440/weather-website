@@ -176,8 +176,10 @@ sup{
 
 
 @media(max-width:768px){
-    .boyd{
+    .body{
         width:100%;
+        padding:0;
+        margin:0;
     }
     .body_content{
         margin:30px;
@@ -188,8 +190,8 @@ sup{
     }
     .body_img{
         padding:0;
-        margin:6rem 0 0 0;
-        width:40rem;
+        margin:6rem 0rem 6rem 0;
+        width:35rem;
         height:25rem;
     }
     .left_content p{
