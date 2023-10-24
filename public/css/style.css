@@ -213,5 +213,11 @@ sup{
     font-size:5rem;
     font-weight:900;
 }
+        .tempInformation{
+        width:30rem;
+    }
+    .temp_form input[type="text"]{
+        padding:1.5rem;
+    }
     
 }
